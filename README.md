@@ -26,7 +26,5 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=vict0r-gu1lherme&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=vict0r-gu1lherme&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vict0r-gu1lherme&show_icons=true&locale=en&layout=compact" alt="vict0r-gu1lherme" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vict0r-gu1lherme&show_icons=true&locale=en" alt="vict0r-gu1lherme" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vict0r-gu1lherme&" alt="vict0r-gu1lherme" /></p>
