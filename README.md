@@ -1,5 +1,6 @@
-<h1 align="center">oi 👋, Eu sou o Victor Guilherme</h1>
-<h3 align="center">Um Desenvolvedor Front-end apaixonado por tecnologia</h3>
+<p align="center">
+  <img width="80%"  src="https://github.com/Vict0r-Gu1lherme/Vict0r-Gu1lherme/blob/main/assets/GitHub-GIF.gif" alt="oi 👋, Eu sou o Victor Guilherme || Um Desenvolvedor Front-end apaixonado por tecnologia">
+</p>
 
 - 🔭 Atualmente estou cursando **Sistemas para Internet no IFPE**
 - 🌱 Estou aprendendo **React**
