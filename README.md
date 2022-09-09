@@ -31,5 +31,11 @@
 </details>
 
 <h3 align="left"> 📊 Métricas do Github: </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vict0r-gu1lherme&show_icons=true&locale=en&layout=compact" alt="vict0r-gu1lherme" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vict0r-gu1lherme&show_icons=true&locale=en" alt="vict0r-gu1lherme" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vict0r-gu1lherme&" alt="vict0r-gu1lherme" /></p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vict0r-gu1lherme&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vict0r-gu1lherme&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vict0r-gu1lherme)  
+
+
