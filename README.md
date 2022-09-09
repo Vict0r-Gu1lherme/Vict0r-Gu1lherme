@@ -15,7 +15,7 @@
 <a href="https://discord.gg/Victor Guilherme#2356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Victor Guilherme#2356" height="30" width="40" /></a>
 </p> --!>
 
-<details>
+<details open>
   <summary><b>🛠️ Linguagens e Ferramentas que utilizo:</b></summary>
   <br/>
 <p align="left"> 
