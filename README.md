@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou cursando **Sistemas para Internet no IFPE**
 - 🌱 Estou aprendendo **Express.js**
-- 👯 Eu procuro colaborar em **projetos Front-end**
+- 👯 Eu procuro colaborar em **projetos Back-end**
 - 💬 Me pergunte sobre **tecnologias de back-end; ficarei feliz em ajudar**
 - 📫 Fale comigo em **victor.guilherme.040301@gmail.com**
 - 📄 Saiba mais sobre mim em [linkedin victor guilherme](https://www.linkedin.com/in/victor-guilherme-455951215/)
