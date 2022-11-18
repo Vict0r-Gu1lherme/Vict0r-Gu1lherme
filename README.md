@@ -2,8 +2,8 @@
   <img width="100%"  src="https://github.com/Vict0r-Gu1lherme/Vict0r-Gu1lherme/blob/main/assets/GitHub-GIF.gif" alt="oi 👋, Eu sou o Victor Guilherme || Um Desenvolvedor Front-end apaixonado por tecnologia">
 </p>
 
-- 🔭 Atualmente estou cursando **Sistemas para Internet no IFPE**
-- 🌱 Estou aprendendo **Express.js**
+- 🔭 Atualmente estou cursando **Sistemas para Internet**
+- 🌱 Estou aprendendo **ReactJs**
 - 👯 Eu procuro colaborar em **projetos Front-end**
 - 💬 Me pergunte sobre **tecnologias de Front-end; ficarei feliz em ajudar**
 - 📫 Fale comigo em **victor.guilherme.040301@gmail.com**
