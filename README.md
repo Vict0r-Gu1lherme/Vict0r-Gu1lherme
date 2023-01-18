@@ -1,5 +1,4 @@
-
-<p>oi 👋, Eu sou o Victor Guilherme || Um Desenvolvedor Back-end apaixonado por tecnologia</p>
+- Eu sou o Victor Guilherme || Um Desenvolvedor Back-end apaixonado por tecnologia
 
 - 🔭 Atualmente estou cursando **Sistemas para Internet**
 
