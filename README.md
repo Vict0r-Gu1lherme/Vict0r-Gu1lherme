@@ -3,8 +3,8 @@
 </p>
 
 - 🔭 Atualmente estou cursando **Desenvolvimento de Sistemas**
-- 🌱 Estou aprendendo **React JS**
-- 👯 Eu procuro colaborar em **projetos de front-end.**
+- 🌱 Estou aprendendo **PYTHON**
+- 👯 Eu procuro colaborar em **projetos de Data Science.**
 - 💬 Me pergunte sobre **programação, ficarei feliz em ajudar**
 - 📫 Fale comigo em **victor.guilherme.040301@gmail.com**
 - 📄 Saiba mais sobre mim em [victor guilherme](https://www.linkedin.com/in/victor-guilherme-455951215/)
