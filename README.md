@@ -3,11 +3,11 @@
 </p>
 
 - 🔭 Atualmente estou cursando **Desenvolvimento de Sistemas**
-- 🌱 Estou aprendendo **PYTHON**
-- 👯 Eu procuro colaborar em **projetos de Data Science.**
-- 💬 Me pergunte sobre **programação, ficarei feliz em ajudar**
+- 🌱 Estou aprendendo **React**
+- 👯 Eu procuro colaborar em **projetos Front-end**
+- 💬 Me pergunte sobre **tecnologias de front-end; ficarei feliz em ajudar**
 - 📫 Fale comigo em **victor.guilherme.040301@gmail.com**
-- 📄 Saiba mais sobre mim em [victor guilherme](https://www.linkedin.com/in/victor-guilherme-455951215/)
+- 📄 Saiba mais sobre mim em [linkedin victor guilherme](https://www.linkedin.com/in/victor-guilherme-455951215/)
 
 <!-- <h3 align="left">Contatos:</h3>
 <p align="left">
